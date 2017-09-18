@@ -19,3 +19,4 @@ grid:
     url: "/users/2191/articles/199825/master/file/figures/water_considerations/water_considerations.csv"
     folder_url: "/users/2191/articles/199825/master/folder/figures/water_considerations"
     treatFirstLineAsHeader: true
+    fontSize: large
