@@ -5,3 +5,4 @@ figures/Graph2
 kqdavlodd48.html
 figures/water_considerations
 4vdq9vjfkg.html
+figures/f_diagram
