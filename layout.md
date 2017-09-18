@@ -1,6 +1,8 @@
 untitled.html
 figures/Kambala,_he-buffalo_race_at_Vandar_village,_Udupi_Dist-,_Kar-_India
 h8k1h20fhvc.html
+figures/Drain?_Or_Toilet?_(3683494818)
+48jib94b3m8.html
 figures/chart1
 k8s44piaog8.html
 figures/Graph2
